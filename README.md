@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=AHSI8xEwtWA)
+[![Ir al video de la app](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=AHSI8xEwtWA)
 
 # ScrumPoker
 
